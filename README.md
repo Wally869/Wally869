@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=wally869.wally869)
 
 <!--
 **Wally869/Wally869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

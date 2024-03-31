@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Will, a smart contracts developer for Web3 with experience in CosmWasm and Solidity.  
+
+Currently exploring a few domains: 
+- AI generation ([Parsing VGM files](https://github.com/Wally869/vgm_parser), [BPE Tokenizer](https://github.com/Wally869/BPE_Tokenizer) for music generation)
+- Smart contracts development (Trying my hand at Solidity smart contracts in Rust with my [Oxyde project](https://github.com/Wally869/Oxyde))
+- Game development and procedural generation 
+
+
 <!--
 **Wally869/Wally869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
